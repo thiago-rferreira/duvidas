@@ -1,6 +1,6 @@
 # Boas-vindas ao Repositório de Dúvidas
 
-Este repositório é dedicado a ajudar você a esclarecer suas dúvidas em relação ao nosso curso/projeto. Se você tiver alguma pergunta, problema ou precisar de ajuda, sinta-se à vontade para abrir uma "issue" neste repositório. Nossa equipe está aqui para ajudar!
+Este repositório é dedicado a ajudar você a esclarecer suas dúvidas em relação ao nosso projeto/atividade/ex. Se você tiver alguma pergunta, problema ou precisar de ajuda, sinta-se à vontade para abrir uma "issue" neste repositório. Nós estamos aqui para ajudar!
 
 ## Como Abrir uma Issue
 
@@ -32,4 +32,4 @@ Este repositório é dedicado a ajudar você a esclarecer suas dúvidas em rela�
 
 Obrigado por contribuir para um ambiente de aprendizado colaborativo e construtivo!
 
-**Importante**: Este repositório é dedicado a dúvidas relacionadas ao curso/projeto. Se você tiver problemas técnicos com a plataforma ou questões administrativas, entre em contato com o suporte adequado.
+**Importante**: Este repositório é dedicado a dúvidas relacionadas ao curso.
